@@ -1,0 +1,11 @@
+.DS_Store
+__MACOSX/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+*.log
+Urdu_Sarcasm_XLMR.zip
+models/urdu_sarcasm_xlmr/

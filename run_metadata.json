@@ -1,0 +1,18 @@
+{
+  "seed": 42,
+  "text_column": "urdu_text",
+  "label_column": "is_sarcastic",
+  "class_mapping": {
+    "0": "non-sarcastic",
+    "1": "sarcastic"
+  },
+  "split": {
+    "train": 0.7,
+    "validation": 0.15,
+    "test": 0.15
+  },
+  "primary_metric": "macro_f1",
+  "python": "3.13.15",
+  "pandas": "3.0.6",
+  "numpy": "2.1.3"
+}
