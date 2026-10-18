@@ -119,6 +119,12 @@ Transformer training is computationally intensive. A GPU-enabled environment is 
 
 If the trained model artifacts are included, they can be used for inference without repeating the full training process, provided the required dependencies and preprocessing steps are available.
 
+## Fine-tuned XLM-RoBERTa Model
+
+The trained model weights and tokenizer are hosted on Hugging Face.
+
+[View the model on Hugging Face](https://huggingface.co/taharaees/urdu-sarcasm-xlmr/tree/main)
+
 ## Reproducibility
 
 - Random seed: `42`
